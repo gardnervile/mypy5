@@ -72,7 +72,7 @@ REPLACEMENT_DICT = {
     'Ю': 'Ю̋͠',
     'Я': 'Я̋',
     ' ': ' '
-}   
+}
 
 
 OUTPUT_DIRECTORY = "game_cards"
